@@ -4,5 +4,5 @@
 - Создайте и активируйте [виртуальное окружение](https://docs.python.org/3/library/venv.html).
 - Установите необходимые зависимости:
     ```shell
-    pip install -r -requirements.txt
+    pip install -r requirements.txt
     ```
